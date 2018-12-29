@@ -17,7 +17,7 @@
     <url>https://github.com/amakurin/everida.battery</url>
     <connection>scm:git:git://github.com/amakurin/everida.battery.git</connection>
     <developerConnection>scm:git:ssh://git@github.com/amakurin/everida.battery.git</developerConnection>
-    <tag>HEAD</tag>
+    <tag>67c59ef8e8e058bb2142372dd690a7a488fbccd4</tag>
   </scm>
   <build>
     <sourceDirectory>src</sourceDirectory>
